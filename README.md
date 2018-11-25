@@ -1,2 +1,2 @@
 # Hello-World
-A trial of building repository
+A trial of building a repository
